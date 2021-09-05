@@ -1,0 +1,22 @@
+article{
+    margin:0 auto;
+    width:80%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    height:fit-content
+}
+.full{
+    display:flex;
+    flex-direction: column;
+    overflow: hidden;
+    height:50%;
+}
+img{width:729px;}
+button{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-25%,-25%);
+}

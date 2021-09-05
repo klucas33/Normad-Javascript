@@ -1,0 +1,9 @@
+body {
+    background-color:lemonchiffon;
+  }
+   
+  .js-weather {
+    margin-left: 30px;
+    color:maroon;
+    font-size: 40px;
+  }
